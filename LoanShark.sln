@@ -1,7 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanShark.Domain", "LoanShark.Domain\LoanShark.Domain.csproj", "{95786F85-66BA-4672-9F1B-A60BB7221481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanShark.Test", "LoanShark.Test\LoanShark.Test.csproj", "{17CB7B66-29D7-4126-8618-3E59C5D8DEF6}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95786F85-66BA-4672-9F1B-A60BB7221481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95786F85-66BA-4672-9F1B-A60BB7221481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95786F85-66BA-4672-9F1B-A60BB7221481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95786F85-66BA-4672-9F1B-A60BB7221481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CB7B66-29D7-4126-8618-3E59C5D8DEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CB7B66-29D7-4126-8618-3E59C5D8DEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CB7B66-29D7-4126-8618-3E59C5D8DEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CB7B66-29D7-4126-8618-3E59C5D8DEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

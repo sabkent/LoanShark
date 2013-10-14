@@ -1,0 +1,9 @@
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\bin\Debug\LoanShark.Test.dll
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\bin\Debug\LoanShark.Test.pdb
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\bin\Debug\LoanShark.Domain.dll
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\bin\Debug\nunit.framework.dll
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\bin\Debug\LoanShark.Domain.pdb
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\bin\Debug\nunit.framework.xml
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\obj\Debug\LoanShark.Test.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\obj\Debug\LoanShark.Test.dll
+C:\Projects\Sandbox\LoanShark\LoanShark.Test\obj\Debug\LoanShark.Test.pdb

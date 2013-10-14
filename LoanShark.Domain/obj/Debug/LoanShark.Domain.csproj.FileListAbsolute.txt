@@ -1,0 +1,5 @@
+C:\Projects\Sandbox\LoanShark\LoanShark.Domain\bin\Debug\LoanShark.Domain.dll
+C:\Projects\Sandbox\LoanShark\LoanShark.Domain\bin\Debug\LoanShark.Domain.pdb
+C:\Projects\Sandbox\LoanShark\LoanShark.Domain\obj\Debug\LoanShark.Domain.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\LoanShark\LoanShark.Domain\obj\Debug\LoanShark.Domain.dll
+C:\Projects\Sandbox\LoanShark\LoanShark.Domain\obj\Debug\LoanShark.Domain.pdb
